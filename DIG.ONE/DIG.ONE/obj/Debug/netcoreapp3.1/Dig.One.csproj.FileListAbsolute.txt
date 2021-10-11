@@ -1,0 +1,28 @@
+C:\Users\TI\Dig.One\bin\Debug\netcoreapp3.1\Dig.One.exe
+C:\Users\TI\Dig.One\bin\Debug\netcoreapp3.1\Dig.One.deps.json
+C:\Users\TI\Dig.One\bin\Debug\netcoreapp3.1\Dig.One.runtimeconfig.json
+C:\Users\TI\Dig.One\bin\Debug\netcoreapp3.1\Dig.One.runtimeconfig.dev.json
+C:\Users\TI\Dig.One\bin\Debug\netcoreapp3.1\Dig.One.dll
+C:\Users\TI\Dig.One\bin\Debug\netcoreapp3.1\Dig.One.pdb
+C:\Users\TI\Dig.One\obj\Debug\netcoreapp3.1\Dig.One.csproj.AssemblyReference.cache
+C:\Users\TI\Dig.One\obj\Debug\netcoreapp3.1\Dig.One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Dig.One\obj\Debug\netcoreapp3.1\Dig.One.AssemblyInfoInputs.cache
+C:\Users\TI\Dig.One\obj\Debug\netcoreapp3.1\Dig.One.AssemblyInfo.cs
+C:\Users\TI\Dig.One\obj\Debug\netcoreapp3.1\Dig.One.csproj.CoreCompileInputs.cache
+C:\Users\TI\Dig.One\obj\Debug\netcoreapp3.1\Dig.One.dll
+C:\Users\TI\Dig.One\obj\Debug\netcoreapp3.1\Dig.One.pdb
+C:\Users\TI\Dig.One\obj\Debug\netcoreapp3.1\Dig.One.genruntimeconfig.cache
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\bin\Debug\netcoreapp3.1\DIG.ONE.exe
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\bin\Debug\netcoreapp3.1\DIG.ONE.deps.json
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\bin\Debug\netcoreapp3.1\DIG.ONE.runtimeconfig.json
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\bin\Debug\netcoreapp3.1\DIG.ONE.runtimeconfig.dev.json
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\bin\Debug\netcoreapp3.1\DIG.ONE.dll
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\bin\Debug\netcoreapp3.1\DIG.ONE.pdb
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\obj\Debug\netcoreapp3.1\DIG.ONE.csproj.AssemblyReference.cache
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\obj\Debug\netcoreapp3.1\DIG.ONE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\obj\Debug\netcoreapp3.1\DIG.ONE.AssemblyInfoInputs.cache
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\obj\Debug\netcoreapp3.1\DIG.ONE.AssemblyInfo.cs
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\obj\Debug\netcoreapp3.1\DIG.ONE.csproj.CoreCompileInputs.cache
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\obj\Debug\netcoreapp3.1\DIG.ONE.dll
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\obj\Debug\netcoreapp3.1\DIG.ONE.pdb
+C:\Users\TI\Dig.One - Copia\DIG.ONE\DIG.ONE\obj\Debug\netcoreapp3.1\DIG.ONE.genruntimeconfig.cache
